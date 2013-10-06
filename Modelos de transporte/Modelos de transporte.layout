@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Estructuras.h" open="0" top="0" tabpos="4">
+		<Cursor position="210" topLine="1" />
+	</File>
+	<File name="FuncionesModelos.h" open="0" top="0" tabpos="3">
+		<Cursor position="1325" topLine="33" />
+	</File>
+	<File name="Operaciones.c" open="0" top="0" tabpos="2">
+		<Cursor position="41226" topLine="1096" />
+	</File>
+	<File name="OperacionesEstructuras.c" open="0" top="0" tabpos="5">
+		<Cursor position="7850" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="17467" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
